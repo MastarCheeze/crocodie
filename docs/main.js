@@ -1,4 +1,4 @@
-Console.log("yeah")
+Console.log("yeah");
 $("#button").on("mousedown", function() {
   $("#text").text("lovely image of dead crocodile");
   $("#image").attr("src", "img/dead.jpg");
